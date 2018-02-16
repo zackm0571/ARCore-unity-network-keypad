@@ -33,7 +33,7 @@ ADDED from /Users/zmatthews/Keypad/Temp/gradleOut/src/main/AndroidManifest.xml:3
 		ADDED from /Users/zmatthews/Keypad/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
 application
 ADDED from /Users/zmatthews/Keypad/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-19:17
-MERGED from [:arcore_client:] /Users/zmatthews/.android/build-cache/798999bd294cc2b5b0b0cc03ad993380b1f0d0e0/output/AndroidManifest.xml:28:5-38:19
+MERGED from [:arcore_client:] /Users/zmatthews/.android/build-cache/8dcdfc0642c30b82940b6a6d235409b869cb431c/output/AndroidManifest.xml:28:5-38:19
 	android:label
 		ADDED from /Users/zmatthews/Keypad/Temp/gradleOut/src/main/AndroidManifest.xml:4:92-124
 	android:icon
@@ -114,10 +114,10 @@ ADDED from /Users/zmatthews/Keypad/Temp/gradleOut/src/main/AndroidManifest.xml:1
 		ADDED from /Users/zmatthews/Keypad/Temp/gradleOut/src/main/AndroidManifest.xml:18:16-49
 uses-sdk
 ADDED from /Users/zmatthews/Keypad/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-72
-MERGED from [:arcore_client:] /Users/zmatthews/.android/build-cache/798999bd294cc2b5b0b0cc03ad993380b1f0d0e0/output/AndroidManifest.xml:25:5-44
-MERGED from [:arcore_client:] /Users/zmatthews/.android/build-cache/798999bd294cc2b5b0b0cc03ad993380b1f0d0e0/output/AndroidManifest.xml:26:5-47
-MERGED from [:unityandroidpermissions:] /Users/zmatthews/.android/build-cache/46d38ff4787fb08efbbd9ac161df91a548b8a792/output/AndroidManifest.xml:11:5-13:41
-MERGED from [:unitygar:] /Users/zmatthews/.android/build-cache/4e79a643020ad7b3d44d2f5e3b238bb7d4e77342/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_client:] /Users/zmatthews/.android/build-cache/8dcdfc0642c30b82940b6a6d235409b869cb431c/output/AndroidManifest.xml:25:5-44
+MERGED from [:arcore_client:] /Users/zmatthews/.android/build-cache/8dcdfc0642c30b82940b6a6d235409b869cb431c/output/AndroidManifest.xml:26:5-47
+MERGED from [:unityandroidpermissions:] /Users/zmatthews/.android/build-cache/555fb2ed67e92f705a91abe23fbad2a766321906/output/AndroidManifest.xml:11:5-13:41
+MERGED from [:unitygar:] /Users/zmatthews/.android/build-cache/d7d0deb2f2b5813676f1fd7eef62b3e67c35d5e6/output/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
 		ADDED from /Users/zmatthews/Keypad/Temp/gradleOut/src/main/AndroidManifest.xml:20:40-69
 		INJECTED from /Users/zmatthews/Keypad/Temp/gradleOut/src/main/AndroidManifest.xml
@@ -172,20 +172,20 @@ ADDED from /Users/zmatthews/Keypad/Temp/gradleOut/src/main/AndroidManifest.xml:2
 	android:name
 		ADDED from /Users/zmatthews/Keypad/Temp/gradleOut/src/main/AndroidManifest.xml:29:17-80
 meta-data#com.google.ar.version.major
-ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/798999bd294cc2b5b0b0cc03ad993380b1f0d0e0/output/AndroidManifest.xml:29:9-31:33
+ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/8dcdfc0642c30b82940b6a6d235409b869cb431c/output/AndroidManifest.xml:29:9-31:33
 	android:value
-		ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/798999bd294cc2b5b0b0cc03ad993380b1f0d0e0/output/AndroidManifest.xml:31:13-30
+		ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/8dcdfc0642c30b82940b6a6d235409b869cb431c/output/AndroidManifest.xml:31:13-30
 	android:name
-		ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/798999bd294cc2b5b0b0cc03ad993380b1f0d0e0/output/AndroidManifest.xml:30:13-55
+		ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/8dcdfc0642c30b82940b6a6d235409b869cb431c/output/AndroidManifest.xml:30:13-55
 meta-data#com.google.ar.version.minor
-ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/798999bd294cc2b5b0b0cc03ad993380b1f0d0e0/output/AndroidManifest.xml:32:9-34:34
+ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/8dcdfc0642c30b82940b6a6d235409b869cb431c/output/AndroidManifest.xml:32:9-34:34
 	android:value
-		ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/798999bd294cc2b5b0b0cc03ad993380b1f0d0e0/output/AndroidManifest.xml:34:13-31
+		ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/8dcdfc0642c30b82940b6a6d235409b869cb431c/output/AndroidManifest.xml:34:13-31
 	android:name
-		ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/798999bd294cc2b5b0b0cc03ad993380b1f0d0e0/output/AndroidManifest.xml:33:13-55
+		ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/8dcdfc0642c30b82940b6a6d235409b869cb431c/output/AndroidManifest.xml:33:13-55
 meta-data#com.google.ar.version.patch
-ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/798999bd294cc2b5b0b0cc03ad993380b1f0d0e0/output/AndroidManifest.xml:35:9-37:41
+ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/8dcdfc0642c30b82940b6a6d235409b869cb431c/output/AndroidManifest.xml:35:9-37:41
 	android:value
-		ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/798999bd294cc2b5b0b0cc03ad993380b1f0d0e0/output/AndroidManifest.xml:37:13-38
+		ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/8dcdfc0642c30b82940b6a6d235409b869cb431c/output/AndroidManifest.xml:37:13-38
 	android:name
-		ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/798999bd294cc2b5b0b0cc03ad993380b1f0d0e0/output/AndroidManifest.xml:36:13-55
+		ADDED from [:arcore_client:] /Users/zmatthews/.android/build-cache/8dcdfc0642c30b82940b6a6d235409b869cb431c/output/AndroidManifest.xml:36:13-55

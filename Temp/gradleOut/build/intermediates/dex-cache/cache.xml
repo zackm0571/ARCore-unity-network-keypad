@@ -3,21 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/Users/zmatthews/.android/build-cache/46d38ff4787fb08efbbd9ac161df91a548b8a792/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="be35cfb98dbf80214072c4eb41da843fb0d4400d">
-        <dex dex="/Users/zmatthews/Keypad/Temp/gradleOut/build/intermediates/pre-dexed/debug/classes_d59f5fcd4b00621a9709add596819bece8560401.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/zmatthews/.android/build-cache/798999bd294cc2b5b0b0cc03ad993380b1f0d0e0/output/jars/classes.jar"
+        jar="/Users/zmatthews/.android/build-cache/8dcdfc0642c30b82940b6a6d235409b869cb431c/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="86661a14ae16b6d6ef1f52fc8c2a1963e9da348b">
-        <dex dex="/Users/zmatthews/Keypad/Temp/gradleOut/build/intermediates/pre-dexed/debug/classes_9b4044ca024a2561476b14f9d77fbe2ca08a7a97.jar" />
+        <dex dex="/Users/zmatthews/Keypad/Temp/gradleOut/build/intermediates/pre-dexed/debug/classes_b99cfbbbdfec059c6faa013f0247cbb824caa6f0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,21 +21,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/zmatthews/.android/build-cache/4e79a643020ad7b3d44d2f5e3b238bb7d4e77342/output/jars/classes.jar"
+        jar="/Users/zmatthews/.android/build-cache/555fb2ed67e92f705a91abe23fbad2a766321906/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="3b08b853fe85764387602ff10decaf2b449f4ea2">
-        <dex dex="/Users/zmatthews/Keypad/Temp/gradleOut/build/intermediates/pre-dexed/debug/classes_bc587d9d5b92e47614728a7d9000f8df96fbe637.jar" />
+        sha1="be35cfb98dbf80214072c4eb41da843fb0d4400d">
+        <dex dex="/Users/zmatthews/Keypad/Temp/gradleOut/build/intermediates/pre-dexed/debug/classes_425c18cc7a58fc9089a95a182a4e85cacb45d7b2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/zmatthews/.android/build-cache/4e79a643020ad7b3d44d2f5e3b238bb7d4e77342/output/jars/libs/tango_java_lib.jar"
+        jar="/Users/zmatthews/.android/build-cache/d7d0deb2f2b5813676f1fd7eef62b3e67c35d5e6/output/jars/libs/tango_java_lib.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="dac29b41332a170a55310a99e3e2f3058e3ac419">
-        <dex dex="/Users/zmatthews/Keypad/Temp/gradleOut/build/intermediates/pre-dexed/debug/tango_java_lib_bf7ae3648656cf617ae4c5edbbddc4aff3c14960.jar" />
+        <dex dex="/Users/zmatthews/Keypad/Temp/gradleOut/build/intermediates/pre-dexed/debug/tango_java_lib_7db41d7d712288e8c0685d685f077cc12023fa71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zmatthews/.android/build-cache/d7d0deb2f2b5813676f1fd7eef62b3e67c35d5e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3b08b853fe85764387602ff10decaf2b449f4ea2">
+        <dex dex="/Users/zmatthews/Keypad/Temp/gradleOut/build/intermediates/pre-dexed/debug/classes_f41b7ab88bbff0db6c9449f53f2c731b6856000b.jar" />
     </item>
 
 </items>
